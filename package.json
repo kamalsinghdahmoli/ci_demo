@@ -1,0 +1,20 @@
+{
+  "name": "kmmc",
+  "version": "1.0.0",
+  "description": "kmmc video records",
+  "main": "index.js",
+  "dependencies": {
+    "msr": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://info-oswt@bitbucket.org/info-oswt/kmmc.git"
+  },
+  "author": "kmmc",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/info-oswt/kmmc#readme"
+}

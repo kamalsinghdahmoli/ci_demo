@@ -1,0 +1,31 @@
+{
+	"description": "The OSWT CMS",
+	"name": "The OSWT CMS",
+	"type": "project",
+	"homepage": "http://www.oswebtechnologies.com",
+	"license": "MIT",
+	"support": {
+		"forum": "http://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"irc": "irc://irc.freenode.net/codeigniter",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=5.2.4",
+		"robmorgan/phinx": "^0.8.0",
+		"fzaninotto/faker": "^1.6",
+		"mailgun/mailgun-php": "^2.4.0",
+		"hybridauth/hybridauth": "^2.10",
+		"paragonie/random_compat": "^2.0",
+		"guzzlehttp/guzzle": "^6.3",
+        "league/oauth2-client": "^2.0",
+    	"microsoft/microsoft-graph": "1.0.*"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
